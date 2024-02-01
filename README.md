@@ -1,3 +1,4 @@
-# CSC221_ksmit117
-CSC221 Spring 2024
-ksmit117@plattsburgh.edu
+i = 5
+while i >= 2:
+    print(i)
+    i -= 1
