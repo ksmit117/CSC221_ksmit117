@@ -1,4 +1,3 @@
-i = 5
-while i >= 2:
-    print(i)
-    i -= 1
+CSC221 Spring 2024
+Kalvin Smith
+ksmit117@plattsburgh.edu
